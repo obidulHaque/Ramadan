@@ -1,0 +1,18 @@
+body{
+    background-image: url("RamadanBackground.jpg");
+    background-size: cover;
+}
+#Siam{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+#Salat{
+    font-size: 5rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: yellow;
+    transition: opacity 0.5s ease;
+    border: 10px solid greenyellow;
+    background-color: aqua;
+}
